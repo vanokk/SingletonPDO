@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '\DBQueryInterface.php';
+require __DIR__ . '\src\SingletonPDO\DBQueryInterface.php';
 
 class DBQuery implements DBQueryInterface
 {

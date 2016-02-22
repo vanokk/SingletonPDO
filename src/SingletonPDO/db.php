@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '\DBConnectionInterface.php';
+require __DIR__ . '\src\SingletonPDO\DBConnectionInterface.php';
 
 class DB implements DBConnectionInterface
 {
