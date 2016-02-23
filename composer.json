@@ -1,5 +1,5 @@
 {
-	"name": "vanokk/SingletonPDO",
+	"name": "vanokk/singleton-pdo",
     "description": "Sigleton PDO",
     "keywords": ["singleton", "pdo"],
     "require":{
