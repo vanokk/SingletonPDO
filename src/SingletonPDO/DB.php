@@ -1,6 +1,6 @@
 <?php
-require __DIR__ . '\src\SingletonPDO\DBConnectionInterface.php';
-
+namespace SingletonPDO;
+use \PDO;
 class DB implements DBConnectionInterface
 {
     static private $DB = null;

@@ -1,6 +1,6 @@
 <?php
-require __DIR__ . '\src\SingletonPDO\DBQueryInterface.php';
-
+namespace SingletonPDO;
+use \PDO;
 class DBQuery implements DBQueryInterface
 {
     protected $execTime = 0;
