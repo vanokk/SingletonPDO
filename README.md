@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-composer require "vanokk/singleton-pdo:1.1.0"
+composer require "vanokk/singleton-pdo"
 ```
 
 ## Usage
